@@ -67,7 +67,13 @@
               </ul>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="result.php">Result</a>
+              <a class="nav-link js-scroll-trigger" href="result.php">Result SAW</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="resultwp.php">Result WP</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="resulttopsis.php">Result Topsis</a>
             </li>
           </ul>
           <i class="bi bi-list mobile-nav-toggle"></i>
